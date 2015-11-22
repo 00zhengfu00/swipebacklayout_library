@@ -6,7 +6,6 @@ package name.teze.test;
  */
 public class TestInfo {
 
-	
 	private String name;
 
 	public String getName() {
